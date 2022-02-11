@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="TextViewLargo">80dp</dimen>
+    <dimen name="TextoGrande">20sp</dimen>
+    <dimen name="TextoToolbar">28sp</dimen>
+    <dimen name="imageViewLista">100dp</dimen>
+    <dimen name="paddingItems">4dp</dimen>
+    <dimen name="background_dim">2dip</dimen>
+    <dimen name="size_0">0dp</dimen>
+    <dimen name="LayoutGrande">48sp</dimen>
+    <dimen name="EspacioEditTextParent">20dp</dimen>
+    <dimen name="EspacioButtonParent">120dp</dimen>
+    <dimen name="MarginTopButtonsLogin">32dp</dimen>
+    <dimen name="espacioEntreViewsStandard">8dp</dimen>
+</resources>

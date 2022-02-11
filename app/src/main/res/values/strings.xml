@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PruebaTP</string>
+    <string name="usuario">Usuario</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="utiliza_la_referencia_bancaria_para_pagar_en_los_bancos_participantes">Utiliza la referencia bancaria para pagar en los bancos participantes</string>
+    <string name="banco">Banco: </string>
+    <string name="reference">reference: </string>
+    <string name="MensajeListaError">No fue posible iniciar la lista</string>
+    <string name="MensajeLoginError">No fue posible iniciar sesión</string>
+
+    <string name="LlenarUsuario">Llena el campo Usuario para continuar</string>
+    <string name="LlenarPass">Llena el campo Contraseña para continuar</string>
+</resources>
